@@ -7,4 +7,4 @@ Accepts one parameter, `filename`. Will return an array of characters representi
 
 Test *ascii-maker* out:
 
-Run `example.lisp` like this: `sbcl --noinform --load ascii-maker.lisp --eval '(quit)'` to get a cool Vim logo!
+Run `example.lisp` like this: `sbcl --noinform --load example.lisp --eval '(quit)'` to get a cool Vim logo!
